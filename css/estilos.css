@@ -1,0 +1,27 @@
+
+.contenedor a{ /*selector combinado*/
+text-decoration: none; /*elimina el subrayado de las ligas*/
+color: rgb(76, 238, 12); /* da color al texto*/
+font-size: 20px ; /*es el tamaño del texto*/
+font-weight: bold; /* pone en negritas el texto*/
+}
+
+h2{
+    color: gold; /* da color al texto*/
+}
+
+p{
+    font-size: 18px; /*es el tamaño del texto*/
+}
+h3{
+    color: aqua; /* da color al texto*/
+text-align: center; /* centra el texto*/
+}
+.contenedor2 p{
+    color: chocolate; /* da color al texto*/
+}
+
+.contenedor2 a{
+    color: blueviolet; /* da color al texto*/
+    text-decoration: none; /*elimina el subrayado de las ligas*/
+}
